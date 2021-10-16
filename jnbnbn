@@ -1,0 +1,27 @@
+btnlink:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+.btnlink .btnlink:hover, .btnlink:active {
+    background-color:blue;
+  }
+
+  
+.con-box .fa-instagram{
+  background-color: #88CA5E;
+}
+.con-box .fa-facebook{
+  background-color: #88CA5E;
+}
+.con-box .fa-twitter{
+  background-color: #88CA5E;
+}
+.con-box .fa-linkedin{
+  background-color: #88CA5E;
+  color:white;
+}
